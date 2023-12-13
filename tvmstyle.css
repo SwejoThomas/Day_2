@@ -1,0 +1,40 @@
+.navi{
+background-color:white;
+opacity: .8;
+
+
+}
+.container{
+width: 100%;
+  height:px;
+  background-image: url("images/districts/tvm/1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;}
+ 
+  .intro{
+    text-align: left;
+    text-justify: auto;
+    opacity:.8;
+    line-height:50px;
+    letter-spacing: 2px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+  
+  }
+  h3
+  {
+    color:white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+opacity: .8px;  
+
+}
+  ul{
+    color:white;
+    opacity:.7;
+  }
+  footer{
+    text-align: center;
+  }
+  

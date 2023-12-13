@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand {
+  font-size: 200px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.nav-item {
+  
+  font-size: large;
+  
+}
+body{
+  height: 100vh;
+}
+.container {
+  width: 100%;
+  height:100vh;
+  background-image: url("images/kel.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-size: xx-large;
+ 
+  
+}
+.intro{
+  text-align: left;
+  text-justify: auto;
+  opacity:.7;
+  line-height:50px;
+  letter-spacing: 2px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+
+}
+
+.container2{
+  width: 100%;
+  height:100vh;
+  background-image: url("images/old house.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+ 
+}
+
+footer{
+  text-align:center;
+}
+#conn{
+  display:inline;
+}
+#connect li{
+display:inline;
+}
+
+.fa-google {
+  background: darkolivegreen;
+  color: rgb(251, 255, 0);
+  width: 40px;
+  height: 20px;
+  text-align: center;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  width: 40px;
+  height: 20px;
+  text-align: center;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  width: 40px;
+  height: 20px;
+  text-align: center;
+}
+.fa-youtube {
+  background: white;
+  color: red;
+  width: 40px;
+  height: 20px;
+  text-align: center;
+}
